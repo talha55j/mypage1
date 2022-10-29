@@ -1,0 +1,11 @@
+.containar{
+    color: brown;
+}
+.containar p{
+    color:black;
+    border: solid;
+    width:20px 5px ;
+}
+.containar h2{
+    color:blue;
+}
